@@ -1,5 +1,5 @@
 {
-  "name": "sapper sveltejs tailwind typescript skeleton",
+  "name": "S.S.T.T. : Sapper Sveltejs Tailwind Typescript skeleton",
   "description": "This skeleton should help you to get started using latest versions of sapper, sveltejs and tailwindcss with typescript support while keeping CSS optimization through purging",
   "version": "0.0.1",
   "scripts": {
