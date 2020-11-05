@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "sapper sveltejs tailwind typescript skeleton",
+  "description": "This skeleton should help you to get started using latest versions of sapper, sveltejs and tailwindcss with typescript support while keeping CSS optimization through purging",
   "version": "0.0.1",
   "scripts": {
     "dev": "NODE_ENV=development sapper dev",
